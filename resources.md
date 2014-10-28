@@ -10,7 +10,7 @@
 
 ## Historia
 
-Chaval (niño?) en India (Bangalore?) debe iniciar un viaje a su pueblo (Darjeeling?): ir a su boda, visitar abuela? En el inicio una niña/chica/mujer le encomienda llevar una planta (de te. lo sabe desde el principio?) hasta al final de su destino. Es muy importante!! En el trayecto, gente quiere quitarle la planta o evitar que llegue a su destino! Por que? que pasa?
+Chaval (niño?) en India (Bangalore?) debe iniciar un viaje a su pueblo (Assam?): ir a su boda, visitar abuela? En el inicio una niña/chica/mujer le encomienda llevar una planta (de te. lo sabe desde el principio?) hasta al final de su destino. Es muy importante!! En el trayecto, gente quiere quitarle la planta o evitar que llegue a su destino! Por que? que pasa?
 Paralelamente hay un brote de vacas zombis diarrea que se inicia en Irlanda y estan causando estragos en el ecosistema y la gente muere.  
 La plaga que empieza en la historia como algo anecdotico se va extendiendo. Rumores, noticias, llega a India, psicosis tipo ebola, conspiranoia. Esta creando un mundo apocaliptico, arrasan con la vegetación.  
 Finalmente logra llegar a su pueblo y las vacas han arrasado con todas las plantaciones de te. Su familia no tiene modo de vida (eran cultivadores o exportadores de te).  
@@ -30,10 +30,10 @@ Falta:
 
 Ideas:
 * conversaciones entre la diosa china y los dioses indios
-* sub-historia: el baba consigue la iluminacion
+* sub-historia: el baba consigue la iluminacion. cuando llega al templo, reconoce entre los monjes veteranos al saddhu, que ha alcanzado la iluminación.
 * empleados de plantaciones enfadados con que les llamen monos
 * sub-historia: recoje un mono adicto al café en Chikkamagaluru y lo acaba entrenando para monkey pick. el sub-plot del mono perdiendo la adicción del café y pasando al té. por un momento le traiciona atraído por el irlandés que le ofrece su droga. es sun wukong de journey to the west!
-* aventura: un pueblo atormentado por una vaca hambrienta. tipo historia de pueblo atormentado por dragón llega salvador.
+* aventura: un pueblo atormentado por una vaca hambrienta. tipo historia de pueblo atormentado por dragón, llega salvador.
 
 Inspiraciones:
 * vacas locas
