@@ -32,7 +32,8 @@ Ideas:
 * conversaciones entre la diosa china y los dioses indios
 * sub-historia: el baba consigue la iluminacion
 * empleados de plantaciones enfadados con que les llamen monos
-* recoje un mono adicto al café en Chikkamagaluru y lo acaba entrenando para monkey pick. el sub-plot del mono perdiendo la adicción del café y pasando al té. por un momento le traiciona atraído por el irlandés que le ofrece su droga. es sun wukong de journey to the west!
+* sub-historia: recoje un mono adicto al café en Chikkamagaluru y lo acaba entrenando para monkey pick. el sub-plot del mono perdiendo la adicción del café y pasando al té. por un momento le traiciona atraído por el irlandés que le ofrece su droga. es sun wukong de journey to the west!
+* aventura: un pueblo atormentado por una vaca hambrienta. tipo historia de pueblo atormentado por dragón llega salvador.
 
 Inspiraciones:
 * vacas locas
