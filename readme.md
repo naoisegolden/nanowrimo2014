@@ -1,1 +1,2 @@
-![Cover](/cover-72dpi.jpg)
+# NaNoWriMo 2014
+
